@@ -129,6 +129,10 @@ iframe {
   margin-left: -110px;
 }
 
+#previous:hover{
+  background: #FF8C00;
+}
+
 #next {
   color: #fff;
   background:#b30059;
@@ -140,6 +144,10 @@ iframe {
   border-radius: 5px;
   transition: 0.3s;
   transition-property: background;
+}
+
+#next:hover{
+  background: #FF8C00;
 }
 
 .c-site-footer p {
